@@ -1,4 +1,8 @@
 Fichero Txt versión uno
 Modificación dos
 
+<<<<<<< HEAD
 Modificación master to branch1
+=======
+Branch uno
+>>>>>>> branch1
